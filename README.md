@@ -46,4 +46,10 @@ Make sure to include an example testing your implementation.
 
 - After finishing, upload the changes in a Pull Request, assign it to yourself and request review from Lorenzo Zuluaga ([L-Zuluaga](https://github.com/L-Zuluaga)).
 
+# Instructions to run implementation
+Para correr el proyecto es necesario
+
+1- Instalar dependencias con: npm install
+2- Correr el proyecto con: npm run dev
+
 **Good luck :)**
